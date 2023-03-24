@@ -32,7 +32,16 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.header {
+  max-width: 1320px;
+  min-width: 600px;
+  padding: 10px 20px;
+  border: 2px solid black;
+
 }
