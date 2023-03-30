@@ -4,6 +4,7 @@
     justify-content: space-between;
     align-items: center;
     gap: 1rem;
+    background: #D8E3AB url(logo.png) no-repeat 5% 50%;
 
 }
 
@@ -89,3 +90,11 @@
                 background-color: red;
             }
         } */
+
+        .Header {
+            width: 50%;
+            max-height: 1000px;
+            padding: 25px;
+            border: 5px;
+            margin: 15px;
+        }
